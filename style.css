@@ -1,0 +1,18 @@
+#header{
+    width: 100%;
+    height: 20vh;
+    border: 1px solid black;
+    background-color: orange;
+}
+.col-12 a{
+    width: 100%;
+    height: 40vh;
+    /* border: 1px solid black;  */
+}
+a{
+    text-decoration: none;
+}
+.row .col-12{
+    text-align: right;
+
+}
